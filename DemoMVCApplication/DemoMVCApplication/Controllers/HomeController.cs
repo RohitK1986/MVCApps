@@ -15,7 +15,7 @@ namespace DemoMVCApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is a new application.";
+            ViewBag.Message = "This is a new application. And again new one!!";
 
             return View();
         }
